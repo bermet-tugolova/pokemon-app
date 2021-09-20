@@ -1,0 +1,13 @@
+.pokemon {
+	width: 280px;
+	height: auto;
+	border: 1px solid grey;
+    margin-top: 20px;
+}
+.main-pokemon {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	text-align: center;
+	margin-bottom: 20px;
+}
